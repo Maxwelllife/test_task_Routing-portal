@@ -6,8 +6,8 @@ import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
     <React.StrictMode>
-        <BrowserRouter basename="/test_task_Routing-portal/">
-            {/* <BrowserRouter> */}
+        {/* <BrowserRouter basename="/test_task_Routing-portal/"> */}
+            <BrowserRouter>
             <App />
         </BrowserRouter>
     </React.StrictMode>
