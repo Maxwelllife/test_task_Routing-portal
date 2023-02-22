@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
     <React.StrictMode>
-        <BrowserRouter basename="/ProxyBand/">
+        <BrowserRouter basename="/test_task_Routing-portal/">
             {/* <BrowserRouter> */}
             <App />
         </BrowserRouter>
