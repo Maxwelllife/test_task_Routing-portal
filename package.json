@@ -1,6 +1,7 @@
 {
     "name": "proxyband",
     "version": "0.1.0",
+    "homepage": "https://Maxwelllife.github.io/test_task_Routing-portal/",
     "private": true,
     "dependencies": {
         "@reduxjs/toolkit": "^1.9.3",
